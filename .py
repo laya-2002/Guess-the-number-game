@@ -1,6 +1,6 @@
 from random import randint
 from math import sqrt
-n=int(input("Enter any integer : "))
+n=int(input("Set the maximum value, you wanted to guess the number : "))
 a=randint(1,n)
 count=0
 while 1:
