@@ -20,7 +20,7 @@ while 1:
         else:
             print("\nCongratulations...! You won.")
             break
-        print("\nChances remaining : ",N_of_chances-count))
+        print("\nChances remaining : ",N_of_chances-count)
     else:
         print("\nOops...! You lose the game.")
         print("\nThe correct number is",a)
