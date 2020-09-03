@@ -11,3 +11,5 @@ If the user was unable to find the number in 10 chances, he will lose the game.
 
 Example-2 : If an user gave 1000 as maximum value, then that user will get 31 chances to guess the number.
 If the user was unable to find the number in 31 chances, he will lose the game.
+
+If the person lost the game, the correct number will be displayed as an output.
