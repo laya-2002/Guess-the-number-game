@@ -23,5 +23,6 @@ while 1:
         print("\nChances remaining : ",N_of_chances-count))
     else:
         print("\nOops...! You lose the game.")
+        print("\nThe correct number is",a)
         break
 # Guess the number within the number(square root of given maximum limit) of chances. 
