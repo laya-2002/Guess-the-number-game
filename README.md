@@ -1,4 +1,4 @@
-# Guess-the-number.
+# Guess-the-number-game.
 It's the program which asks the user to guess the number within the limited number of chances.
 
 The program takes input of maximum value within the range of which the value should be set by the computer.
