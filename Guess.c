@@ -1,6 +1,6 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <math.h>
+#include<stdio.h>
+#include<stdlib.h>
+#include<math.h>
 int Random(int n);
 int main()
 {
@@ -15,7 +15,7 @@ int main()
     printf("\nYou will get %d chances to guess the number.",N_of_chances);
     count=0;
     /* Actions displaying after each response given by you. */
-    while(1)
+    while(1>0)
     {
         count++;
         if(count<=N_of_chances)
